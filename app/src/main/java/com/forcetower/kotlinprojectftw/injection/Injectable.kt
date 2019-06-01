@@ -1,0 +1,3 @@
+package com.forcetower.kotlinprojectftw.injection
+
+interface Injectable
