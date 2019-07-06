@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KotlinProjectFtw</string>
+    <string name="label_schedule">Programação</string>
 </resources>
